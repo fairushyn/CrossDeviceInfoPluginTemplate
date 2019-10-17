@@ -1,0 +1,2 @@
+# CrossDeviceInfoPluginTemplate
+ CrossDeviceInfo Plugin Template
